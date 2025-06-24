@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Projects (Pinned Below)
+## 📌 Projects 
 
 - 🔄 **Data Pipeline from API to Database** – End-to-end ETL with Python  
 - 📊 **Interactive Analytics Dashboard** – Power BI dashboard with SQL backend  
