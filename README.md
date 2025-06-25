@@ -19,9 +19,14 @@
 
 ## 📌 Projects 
 
-- 🔄 **Data Pipeline from API to Database** – End-to-end ETL with Python  
-- 📊 **Interactive Analytics Dashboard** – Power BI dashboard with SQL backend  
-- ☁️ **Cloud-Based Data Engineering** – Real-time data ingestion with Kafka & GCP
+- 🚗 **Vehicle Crash Claim Prediction**  
+  Developed ML models to predict crash claims (Sensitivity: 0.806) using logistic regression & random forest.  
+
+- 🅿️ **Smart Parking Lot Management System**  
+  Designed an IoT-enabled parking system with real-time availability tracking.  
+
+- 🎓 **Higher Ed Data Transformation Initiative**  
+  Migrated on-prem data infrastructure to a unified cloud architecture with improved scalability.  
 
 ---
 
